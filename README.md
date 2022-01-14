@@ -1,6 +1,6 @@
-# Demand for skills: Analysis Based on the Online-Data about Vacancies.
+## Demand for skills: Analysis Based on the Online-Data about Vacancies.
 
-## Scripts
+### Scripts
 * `hh-vacancies-parser.py` - Vacancies parser using HH API.
 * `hh-vacancies-preprocessing.py` - Data preprocessing of vacancies.
 * `hh-vacancies-parser-companies.py` - Companies parser using HH API.
